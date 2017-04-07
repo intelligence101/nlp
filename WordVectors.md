@@ -23,4 +23,4 @@ Thus, we would like to represent these tokens into some lower dimension word spa
 
 ###### Heare is a naive way ? The one hot vector
 
-Let's get some notations out of the way. |V| dnotes the size of the vocabulary. $$R^{vx1}$$
+Let's get some notations out of the way. |V| dnotes the size of the vocabulary. \\(R^{vx1}\\)
