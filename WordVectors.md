@@ -17,10 +17,10 @@ symbols are transmitted via continuous signals of sound/vision.
 
 #### Embedding Space 
 
->> Estimated 13 million tokens for english language but are the all unrelated ? Probably Not !!!
+> Estimated 13 million tokens for english language but are the all unrelated ? Probably Not !!!
 
 Thus, we would like to represent these tokens into some lower dimension word space that captures all the semantics of the english language. This is where word vectors help us. Just as thought experiment, let's try to solve this problem. How can we do it ? 
 
-###### Heare is a naive way ?
+###### Heare is a naive way ? The one hot vector
 
-Let's get some notations out of the way. |V| dnotes the size of the vocabulary. 
+Let's get some notations out of the way. |V| dnotes the size of the vocabulary. $$R^{vx1}$$
