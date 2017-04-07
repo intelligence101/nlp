@@ -1,3 +1,6 @@
+## Representation Learning from Raw data points.
+Representation learning attempts to automatically learn good representations of the data from the raw( e.g. sound, characters or words) signals. DL algorithms try to learn multiple levels: starting from simple features to complicated representations. 
+
 ### Word Vectors 
 
 Probably the first task in language understanding is to represent the discrete symbolic representation into
@@ -14,4 +17,7 @@ symbols are transmitted via continuous signals of sound/vision.
 
 #### Embedding Space 
 
->>> Estimated 13 million tokens for english language but are the all unrelated ?
+>> Estimated 13 million tokens for english language but are the all unrelated ? Probably Not !!!
+
+Thus, we would like to represent these tokens into some lower dimension word space that captures all the semantics of the english language. This is where word vectors help us. Just as thought experiment, let's try to solve this problem. How can we do it ? 
+
